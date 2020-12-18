@@ -158,44 +158,6 @@ function publishRecipe(e){
   directions.value = '';
 
 
-  
-  // <!-- Receipe Content Area -->
-  // <div class="receipe-content-area">
-  //     <div class="container">
-
-  //         <div class="row">
-  //             <div class="col-12 col-md-8">
-  //                 <div class="receipe-headline my-5">
-  //                     <span>April 05, 2018</span>
-  //                     <h2>Vegetarian cheese salad</h2>
-  //                 </div>
-  //             </div>
-  //         </div>
-
-  //         <div class="row">
-  //             <div class="col-12 col-lg-8">
-  //                 <!-- Single Preparation Step -->
-  //                 <div class="single-preparation-step d-flex">
-  //                     <h4>01.</h4>
-  //                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius dui. Suspendisse potenti. Vestibulum ac pellentesque tortor. Aenean congue sed metus in iaculis. Cras a tortor enim. Phasellus posuere vestibulum ipsum, eget lobortis purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>               
-  //                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec varius dui. Suspendisse potenti. Vestibulum ac pellentesque tortor. Aenean congue sed metus in iaculis. Cras a tortor enim. Phasellus posuere vestibulum ipsum, eget lobortis purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
-  //                 </div>
-  //             </div>
-
-  //             <!-- Ingredients -->
-  //             <div class="col-12 col-lg-4">
-  //                 <div class="ingredients">
-  //                     <h4>Ingredients</h4>
-
-  //                     <!-- Custom Checkbox -->
-  //                     <div class="custom-control custom-checkbox">
-  //                         <input type="checkbox" class="custom-control-input" id="customCheck1">
-  //                         <label class="custom-control-label" for="customCheck1">4 Tbsp (57 gr) butter</label>
-  //                     </div>                      
-  //                 </div>
-  //             </div>
-  //         </div>
-
 
   e.preventDefault();
 }
