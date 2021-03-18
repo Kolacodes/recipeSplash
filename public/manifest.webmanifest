@@ -1,0 +1,25 @@
+{
+    "name": "Agro Machines",
+    "short_name": "Agro",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#0add08",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}

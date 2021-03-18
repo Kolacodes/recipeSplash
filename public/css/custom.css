@@ -1,0 +1,17 @@
+/* Add here all your CSS customizations */
+
+/* CSS Variables */
+
+:root{
+  --primary-color: #e3ff00;
+  --primary-color: #0add08;
+}
+
+.color-primary{
+  color: var(--primary-color) !important;
+}
+
+.afrocodez{
+  text-align: center;
+  padding-bottom: 50px;
+}
